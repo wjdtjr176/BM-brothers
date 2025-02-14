@@ -1,0 +1,36 @@
+
+
+
+
+.blind{
+    position: absolute;   
+    width: 1px;height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    margin: -1px;
+}
+
+
+
+
+.headline{
+    margin-bottom: 20px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.5;
+    text-align: center;
+}
+.no-scroll{
+    overflow: hidden;
+    height: 100%;
+}
+
+
+
+.group-text{
+    text-align: center;
+}
+.group-text desc{
+    line-height: 1.75;
+}
+
